@@ -9,5 +9,10 @@ function newsletter() {
 
 function feature() {
     console.log("Cool Feature!");
-    console.log("Noch cooler!");
+    console.log("cooler!");
+}
+
+function newfeature() {
+    console.log("Cool New!");
+    
 }
