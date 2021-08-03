@@ -12,7 +12,10 @@ function feature() {
     console.log("cooler!");
 }
 
-function newfeature() {
+function newFeature() {
     console.log("Cool New!");
-    
+}
+
+function newFunction() {
+    console.log("New!");
 }
